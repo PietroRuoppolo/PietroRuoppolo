@@ -1,6 +1,6 @@
 # 👋 Benvenuto sulla mia pagina GitHub!
  
-Sono **Pietro**,specialista cloud con 4 anni di esperienza sui sistemi Cloud. 
+Mi presento,sono **Pietro**,specialista cloud con 4 anni di esperienza sui sistemi Cloud. 
 
 ---
 
