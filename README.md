@@ -28,3 +28,4 @@ Mi presento,sono **Pietro**,specialista cloud con 4 anni di esperienza sui siste
 |-----------|--------:|--------|
 | [Docker - Microservice](https://github.com/PietroRuoppolo/Docker---Microservice-App-DB-Integration.git) | ⭐ | Docker, Adminer, PostgreSQL|
 | [Three-Tier-Architecture](https://github.com/PietroRuoppolo/Three-Tier-Web-Application-.git) | ⭐ | AWS, Terraform |
+| [K8s-Aruba](https://github.com/PietroRuoppolo/K8s-Aruba.git) | ⭐ | Aruba, Kubernetes, CLI |
